@@ -45,7 +45,7 @@
 
 ### 📫 연락하기
 
-- ✉️ 이메일: [sukmuzi95@example.com](mailto:sukmuzi@naver.com)
+- ✉️ 이메일: [sukmuzi@naver.com](mailto:sukmuzi@naver.com)
 
 ---
 
