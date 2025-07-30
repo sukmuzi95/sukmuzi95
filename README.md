@@ -39,7 +39,7 @@
 ### 📈 GitHub 활동 통계
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sukmuzi95&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukmuzi&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukmuzi95&layout=compact&theme=tokyonight)
 
 ---
 
