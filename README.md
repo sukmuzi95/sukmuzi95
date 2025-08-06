@@ -9,6 +9,7 @@
 
 **Backend**
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Spring Framework](https://img.shields.io/badge/Spring_Framework-6DB33F?style=flat&logo=spring&logoColor=white)
 
 **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -16,6 +17,7 @@
 
 **Database**
 ![RDBMS](https://img.shields.io/badge/RDBMS-4479A1?style=flat&logo=mysql&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=flat&logo=jakartaee&logoColor=white)
 
 ---
 
